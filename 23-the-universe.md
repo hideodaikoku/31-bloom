@@ -1,0 +1,8 @@
+# the universe
+
+the universe is always 
+round the corner
+right in front, but just beyond reach
+folding inwards, inside out
+commit to a direction
+and walk
