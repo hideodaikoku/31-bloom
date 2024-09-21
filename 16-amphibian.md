@@ -1,13 +1,13 @@
 # amphibian
 
 
-the amphibian small and quick
-docile to the touch, just inches
-away from being consumed
-by the poisons of the swamp
-it changes color to blend in
-twitching left and right in
-search of predators
-and higher ground
-the toxins deep, now spread
+the amphibian small and quick<br/>
+docile to the touch, just inches<br/>
+away from being consumed<br/>
+by the poisons of the swamp<br/>
+it changes color to blend in<br/>
+twitching left and right in<br/>
+search of predators<br/>
+and higher ground<br/>
+the toxins deep, now spread<br/>
 to the treetops

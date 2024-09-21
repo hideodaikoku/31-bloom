@@ -1,10 +1,10 @@
 # major motion picture
 
-let’s paint a landscape
-with baby blue hills
-and salmon pink skies
-in a major motion picture
-coated in the film grain 
-of a close to life documentary
-played on a dirty projector
-in a gas station, by the sea
+let’s paint a landscape<br/>
+with baby blue hills<br/>
+and salmon pink skies<br/>
+in a major motion picture<br/>
+coated in the film grain<br/> 
+of a close to life documentary<br/>
+played on a dirty projector<br/>
+in a gas station, by the sea<br/>

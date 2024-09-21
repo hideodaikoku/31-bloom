@@ -1,17 +1,17 @@
 # the rhythm
 
-can you hear it?
-`i don’t hear it`
-listen closely
-`i still don’t hear it`
-listen with your eyes.
-`the trees?`
-look closer
-`the birds? the bees? what is it?`
-lean back
-`is it the forest? the sun? the stars?`
-look into the water
-`i hear it now! `
-keep listening :)
+can you hear it?<br/>
+`i don’t hear it`<br/>
+listen closely<br/>
+`i still don’t hear it`<br/>
+listen with your eyes.<br/>
+`the trees?`<br/>
+look closer<br/>
+`the birds? the bees? what is it?`<br/>
+lean back<br/>
+`is it the forest? the sun? the stars?`<br/>
+look into the water<br/>
+`i hear it now! `<br/>
+keep listening :)<br/>
 ![the rhythm-1](images/the%20rhythm-1.png)
 

@@ -1,7 +1,7 @@
 # bloom
 
-chase the butterflies
-that guide your stomach
-out of kindness that only exists
-within transactional relationships
-and cliché definitions of success
+chase the butterflies<br/>
+that guide your stomach<br/>
+out of kindness that only exists<br/>
+within transactional relationships<br/>
+and cliché definitions of success<br/>

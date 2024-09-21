@@ -1,4 +1,4 @@
 # growing up
-see violence in
-a bouquet of flowers as
+see violence in<br/>
+a bouquet of flowers as<br/>
 winter’s tranquil light
