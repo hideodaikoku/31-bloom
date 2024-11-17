@@ -13,5 +13,3 @@ lean back<br/>
 look into the water<br/>
 `i hear it now! `<br/>
 keep listening :)<br/>
-![the rhythm-1](images/the%20rhythm-1.png)
-

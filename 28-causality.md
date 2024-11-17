@@ -15,5 +15,3 @@ So step back and admire<br/>
 The beauty of the system<br/>
 What came first?<br/>
 The chicken or the nugget?
-
-*Rube Goldberg Machine by Joseph Herscher *
