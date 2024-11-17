@@ -14,5 +14,3 @@ and something gleams against the sunlight<br/>
 42 knots, it’s time to stop rowing<br/>
 and let the wind carry us<br/>
 to the beach<br/>
-
-*Illustration: Rek, 100 Rabbits *
