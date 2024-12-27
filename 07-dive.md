@@ -7,5 +7,3 @@ so when you rise to the surface<br/>
 you may quench your thirst with<br/>
 with a long clear glass<br/>
 of golden sunlight<br/>
-
-photo credit: Novo Amor, Nihal Friedel
